@@ -35,3 +35,12 @@ I like people.
 I always liked writing short stories, but having tried that path in Italy when I was unemployed has been terrible.
 
 Other keywords: fantasy, sci-fy, science, atheism, equal rights, watching woodturning on YouTube.
+
+
+Photo
+=====
+This is a typical photo of me at home in smart working for the COVID-19 emergency.
+
+<p align="center">
+  <img alt="Marco Buschini" src="./Marco%20Buschini.jpg">
+</p>
