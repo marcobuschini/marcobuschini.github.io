@@ -12,7 +12,7 @@ I want to acquire new skills, and I am at my best when I help the team I belong 
 Work Experience
 ===============
 
-Full Stack developwe at AlfaDocs GMBH
+Full Stack developer at AlfaDocs GMBH
 -------------------------------------
 
 ### 05/2021 -- Current
