@@ -12,10 +12,17 @@ I want to acquire new skills, and I am at my best when I help the team I belong 
 Work Experience
 ===============
 
+Full Stack developwe at AlfaDocs GMBH
+-------------------------------------
+
+### 05/2021 -- Current
+
+I help developing a full stack web application to manage appointments and billing for dental and medical offices.
+
 Software developer at Mitrol s.r.l.
 -----------------------------------
 
-### 04/2015 -- Current
+### 04/2015 -- 04/2021
 
 I develop software for the web, MySQL, and .net on Linux, and Windows platforms. In particular:
 
