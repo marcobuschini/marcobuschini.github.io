@@ -15,9 +15,11 @@ Work Experience
 Full Stack developer at AlfaDocs GMBH
 -------------------------------------
 
-### 05/2021 -- Current
+### 05/2021 -- 07/2021
 
 I help developing a full stack web application to manage appointments and billing for dental and medical offices.
+I help solving issues nobody else could solve in a spaghetti-code infrastructure (REACT and Symfony).
+After solving a long standing issue that could make the company a market leader world wide in invoicing (adding VAT to the rows of a bill so that every row can have its own VAT) I am dismissed as “very diligent but not a good fit for the company”.
 
 Software developer at Mitrol s.r.l.
 -----------------------------------
