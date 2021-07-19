@@ -19,7 +19,7 @@ Full Stack developer at AlfaDocs GMBH
 
 I help developing a full stack web application to manage appointments and billing for dental and medical offices.
 I help solving issues nobody else could solve in a spaghetti-code infrastructure (REACT and Symfony).
-After solving a long standing issue that could make the company a market leader world wide in invoicing (adding VAT to the rows of a bill so that every row can have its own VAT) I am dismissed as “very diligent but not a good fit for the company”.
+After solving a long standing issue that could make the company a market leader in invoicing (adding VAT to the rows of a bill so that every row can have its own VAT) I am dismissed as “very diligent but not a good fit for the company”.
 
 Software developer at Mitrol s.r.l.
 -----------------------------------
@@ -229,6 +229,8 @@ By beeing a software developer since high school my skills are so broad and wide
    - Visual Studio Code
 
  - Basic level
+   - GitLab
+   - Jira
    - Eclipse
    - BIRT
    - SQL (MS SQL Server, and AS/400)
