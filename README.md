@@ -34,12 +34,13 @@ I like people.
 
 I always liked writing short stories, but having tried that path in Italy when I was unemployed has been terrible.
 
-Other keywords: fantasy, sci-fy, science, atheism, equal rights, watching woodturning on YouTube.
+My wishlist on Amazon is here [![](https://img.shields.io/badge/wishlist-amazon-brightgreen)](https://www.amazon.it/hz/wishlist/ls/1FT8ML2ECU2P4?ref_=wl_share), just in case you appreciate my repositories 😄.
 
+Other keywords: fantasy, sci-fy, science, atheism, equal rights, TTRPG.
 
 Photo
 =====
-This is a typical photo of me at home in smart working for the COVID-19 emergency.
+Here is a photo of me a friend shot me at a restaurant.
 
 <p align="center">
   <img alt="Marco Buschini" src="./Marco%20Buschini.jpg">
