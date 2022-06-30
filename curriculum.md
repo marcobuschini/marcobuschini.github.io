@@ -12,6 +12,13 @@ I want to acquire new skills, and I am at my best when I help the team I belong 
 Work Experience
 ===============
 
+Technology Expert at Seidor for Joint Research Center
+-----------------------------------------------------
+
+### 04/2022 -- current
+
+I work at migrating an old application written with a Wiki to a more contemporary API backend (with an Angular frontend) aplication.
+
 Full Stack developer at AlfaDocs GMBH
 -------------------------------------
 
